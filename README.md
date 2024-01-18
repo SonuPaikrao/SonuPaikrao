@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Generative AI ,Prompt Engineering, Next.js**
 
-- 👨‍💻 All of my projects are available at [GitHub && GitLab](GitHub && GitLab)
+- 👨‍💻 All of my projects are available at [GitHub && GitLab]
 
 - 📝 I regularly write articles on [https://coding.blog/](https://coding.blog/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ix0x0x0@hotmail.com**
 
-- 📄 Know about my experiences [work in progress 🚧⌛🔄🛠️](work in progress 🚧⌛🔄🛠️)
+- 📄 Know about my experiences [work in progress 🚧⌛🔄🛠️]
 
 - ⚡ Fun fact **¯\_(ツ)_/¯**
 
