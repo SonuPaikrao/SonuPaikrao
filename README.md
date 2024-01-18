@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/miisonu" target="blank"><img src="https://img.shields.io/twitter/follow/miisonu?logo=twitter&style=for-the-badge" alt="miisonu" /></a> </p>
 
-- 🔭 I’m currently working on **torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation**(https://github.com/yoshitomo-matsubara/torchdistill)
+- 🔭 I’m currently working on [**torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation**](https://github.com/yoshitomo-matsubara/torchdistill)
 
 - 🌱 I’m currently learning **Generative AI ,Prompt Engineering, Next.js**
 
 - 👨‍💻 All of my projects are available at - **GitHub && GitLab**
 
-- 📝 I regularly write articles on **https://coding.blog/**(https://coding.blog/)
+- 📝 I regularly write articles on [https://coding.blog/](https://coding.blog/)
 
 - 💬 Ask me about **Kotlin ,Prompting**
 
