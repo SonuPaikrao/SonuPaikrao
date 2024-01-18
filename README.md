@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **Generative AI ,Prompt Engineering, Next.js**
 
-- 👯 I’m looking to collaborate on [//](//)
-
-- 🤝 I’m looking for help with [//](//)
-
 - 👨‍💻 All of my projects are available at [GitHub && GitLab](GitHub && GitLab)
 
 - 📝 I regularly write articles on [https://coding.blog/](https://coding.blog/)
