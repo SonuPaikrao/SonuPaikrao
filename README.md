@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/miisonu" target="blank"><img src="https://img.shields.io/twitter/follow/miisonu?logo=twitter&style=for-the-badge" alt="miisonu" /></a> </p>
 
 
-- 📝 **Portfolio** [https://sonuraofolio.c1.is](https://sonurao.netlify.app/)
+- 📝 **Portfolio** [👉🏼](https://sonurao.netlify.app/)
 
 - 🔭 I’m currently working on [**torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation**](https://github.com/yoshitomo-matsubara/torchdistill)
 
