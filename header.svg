@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="100%">
+  <defs>
+    <style>
+      .name {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 110px;
+        font-weight: 900;
+        fill: transparent;
+        stroke: #00FF41;
+        stroke-width: 2px;
+        stroke-dasharray: 800;
+        stroke-dashoffset: 800;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        animation: drawLaser 3s cubic-bezier(0.25, 1, 0.5, 1) forwards, glowFill 2s ease-in forwards 2.5s;
+      }
+      
+      .subtitle {
+        font-family: ui-monospace, SFMono-Regular, Consolas, 'Courier New', monospace;
+        font-size: 24px;
+        font-weight: 600;
+        fill: #ffffff;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        opacity: 0;
+        animation: subtitleReveal 2s ease-out forwards 3s;
+      }
+
+      @keyframes drawLaser {
+        0% { stroke-dashoffset: 800; stroke-width: 1px; }
+        100% { stroke-dashoffset: 0; stroke-width: 4px; }
+      }
+
+      @keyframes glowFill {
+        0% { fill: transparent; text-shadow: none; }
+        100% { fill: #00FF41; filter: drop-shadow(0 0 20px #00FF41); }
+      }
+
+      @keyframes subtitleReveal {
+        0% { opacity: 0; letter-spacing: -5px; transform: translateY(20px); }
+        100% { opacity: 1; letter-spacing: 12px; transform: translateY(0); }
+      }
+      
+      /* Cinematic rising particles from below */
+      .particle {
+        fill: #00FF41;
+        opacity: 0;
+        animation: rise infinite ease-in;
+      }
+      .p1 { animation-duration: 4s; animation-delay: 0s; }
+      .p2 { animation-duration: 5s; animation-delay: 1.5s; }
+      .p3 { animation-duration: 3s; animation-delay: 2.8s; }
+      .p4 { animation-duration: 4.5s; animation-delay: 0.5s; }
+      .p5 { animation-duration: 3.5s; animation-delay: 3s; }
+      .p6 { animation-duration: 5.5s; animation-delay: 2s; }
+      .p7 { animation-duration: 4.2s; animation-delay: 1s; }
+      .p8 { animation-duration: 3.8s; animation-delay: 2.5s; }
+      
+      @keyframes rise {
+        0% { transform: translateY(250px) scale(0); opacity: 0; }
+        20% { opacity: 0.8; }
+        80% { opacity: 0.5; }
+        100% { transform: translateY(-50px) scale(2); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Glowing background particles rising up -->
+  <circle cx="200" cy="0" r="3" class="particle p1" />
+  <circle cx="300" cy="0" r="5" class="particle p2" />
+  <circle cx="400" cy="0" r="2" class="particle p3" />
+  <circle cx="480" cy="0" r="4" class="particle p4" />
+  <circle cx="520" cy="0" r="3" class="particle p5" />
+  <circle cx="600" cy="0" r="4" class="particle p6" />
+  <circle cx="700" cy="0" r="2" class="particle p7" />
+  <circle cx="800" cy="0" r="5" class="particle p8" />
+  <circle cx="350" cy="0" r="4" class="particle p7" />
+  <circle cx="650" cy="0" r="3" class="particle p3" />
+
+  <!-- Laser drawing text -->
+  <text x="500" y="110" class="name">SONU RAO</text>
+  <text x="500" y="195" class="subtitle">ELITE SOFTWARE ARCHITECT</text>
+</svg>
