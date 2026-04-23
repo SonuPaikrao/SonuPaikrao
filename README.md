@@ -1,48 +1,248 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Sonu Paikrao</h1>
-<h3 align="center">Crafting Digital Experiences with Code: Journey into the Frontiers of Frontend Development 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pxMzVmemVyb3ZkbTM3cndtaGZkaG1lZ3l2N2dpdXFmczc1NnNlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+<!-- $10000 Premium CSS-Animated Name Reveal -->
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Sonu Rao Animated Header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonupaikrao&label=Profile%20views&color=0e75b6&style=flat" alt="sonupaikrao" /> </p>
+<div align="center">
+  <!-- Cinematic Header GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Header" />
 
-<p align="left"> <a href="https://twitter.com/miisonu" target="blank"><img src="https://img.shields.io/twitter/follow/miisonu?logo=twitter&style=for-the-badge" alt="miisonu" /></a> </p>
+  <br><br>
+
+  <!-- Ultra-Fast Animated Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=ARCHITECTING+DIGITAL+FUTURES;ENGINEERING+SCALABLE+SYSTEMS;MASTERING+PIXEL-PERFECT+UI%2FUX;TRANSFORMING+IDEAS+INTO+CODE" alt="Typing SVG" />
+  
+  <p align="center">
+    <br>
+    <i>"Translating complex logic into breathtaking interfaces. The bridge between raw performance and flawless design."</i>
+  </p>
+
+  <br>
+
+  <!-- Custom Dark Badges with Neon Logos -->
+  <img src="https://img.shields.io/badge/Expertise-Frontend_Architecture-000000?style=for-the-badge&logo=react&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Backends-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Design-UI%2FUX_Perfection-000000?style=for-the-badge&logo=figma&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Deployment-Cloud_Native-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00FF41" />
+</div>
+
+<br><br><br>
+
+---
+
+<h2 align="center">⚡ Engineering Activity Graph (Live)</h2>
+<div align="center">
+  <p><i>Real-time visualization of my engineering pulse and open-source contributions.</i></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bradtraversy&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br><br>
+
+---
+
+<h2 align="center">📖 Executive Profile & Philosophy</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 Who I Am</h3>
+      <p>I am a relentless problem-solver and a passionate <b>Full-Stack Architect</b> specializing in building highly scalable, fault-tolerant web applications. With a deep obsession for <b>UI/UX perfection</b>, I don't just write code; I craft digital ecosystems that provide seamless, intuitive experiences for end-users.</p>
+      <h3>💡 Core Philosophy</h3>
+      <ul>
+        <li><b>Performance First:</b> Every millisecond counts. I optimize architectures for lightning-fast delivery.</li>
+        <li><b>Pixel-Perfect UIs:</b> If it doesn't look like a million bucks, it's not ready for production.</li>
+        <li><b>Scalable Systems:</b> I build backends that don't just work today, but scale for millions of users tomorrow.</li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM1ZWZjNWUxOWY1NzE4MjU1YmQxMWU4NGE1ZGFkYzA2MzBkYmMwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9Zza13nvlE8/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Matrix" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+---
+
+<h2 align="center">🧠 The Arsenal (Tech Ecosystem)</h2>
+<p align="center"><i>A comprehensive breakdown of the tools and technologies I use to dominate the digital landscape.</i></p>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <b>💻 Core Frontend Dynamics</b><br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,sass,vite,mui,angular,vue" />
+      </td>
+      <td align="center" width="50%">
+        <b>⚙️ High-Performance Backends</b><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,graphql,nestjs,go,ruby" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <b>🗄️ Database Architecture</b><br><br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,prisma,redis,sqlite" />
+      </td>
+      <td align="center" width="50%">
+        <b>☁️ Cloud & Infrastructure</b><br><br>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,docker,kubernetes,linux,nginx,git,github" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <b>🎨 UI/UX Mastery</b><br><br>
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender" />
+      </td>
+      <td align="center" width="50%">
+        <b>🛠️ DevOps & Testing</b><br><br>
+        <img src="https://skillicons.dev/icons?i=postman,selenium,jest,cypress,vscode,webpack,babel,npm,yarn,bun" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+---
+
+<h2 align="center">⚙️ Engineering Lifecycle & Workflow</h2>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h3>1️⃣ Conceptualization</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="50" height="50" />
+      <p>Deep-diving into product requirements, user psychology, and market needs to draft a solid blueprint.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>2️⃣ UI/UX Architecture</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Design" width="50" height="50" />
+      <p>Wireframing, prototyping, and finalizing high-fidelity, pixel-perfect designs in Figma.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>3️⃣ Full-Stack Execution</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Code" width="50" height="50" />
+      <p>Writing clean, DRY, and scalable code. Connecting the Next.js frontend to a robust microservice backend.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>4️⃣ Cloud Deployment</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Deploy" width="50" height="50" />
+      <p>CI/CD pipelines via GitHub Actions, Dockerizing environments, and launching to AWS/Vercel.</p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+---
+
+<h2 align="center">🚀 Elite Deployments (Featured Projects)</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🎬 OTT Box: The Next-Gen Streaming Platform</h3>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🦅 CyberAscii Vision</h3>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FFC107?style=for-the-badge" alt="In Development" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNqbGhwajc5cW5pZGZpODVsaGxnZW9nYnRlaG8xbHJyMmpxZjF5OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7rc0qU6m5hneMsuc/giphy.gif" width="100%" alt="OTT Box GIF" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZThlajR6bW96dmp5Y2hncmRpdnY3a3poeXUyd2dwa3BmaWdyOHBicCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RLJxQtX8Hs7XytaoyX/giphy.gif" width="100%" alt="CyberAscii Vision Banner" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>A massive, enterprise-grade streaming architecture featuring real-time video delivery, personalized AI recommendations, and an ultra-premium dark-mode UI. Built with Next.js 15, React 19, Supabase, and AWS.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p>An advanced, decentralized AI application utilizing OpenRouter for free AI access. Features immersive cyberpunk UI enhancements, CRT glitch shaders, and voice-synthesized threat alerts for a true hacker aesthetic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="bottom">
+      <a href="https://ott-box-weld.vercel.app//" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/SonuPaikrao/ottbox" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="Source Code" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="bottom">
+      <a href="https://cyberascii-vision.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/SonuPaikrao/CyberAscii-Vision" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="Source Code" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+---
+
+<h2 align="center">📊 Global Performance Metrics</h2>
+<p align="center"><i>Data-driven proof of my engineering consistency and impact on the global open-source community.</i></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bradtraversy&custom_title=Sonu%20Rao's%20Global%20Impact&show_icons=true&theme=tokyonight&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuPaikrao&layout=compact&theme=tokyonight&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+</div>
+
+<br>
 
 
-- 📝 **Portfolio** [https://sonurao.com](https://sonurao.netlify.app/)
 
-- 🔭 I’m currently working on [**torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation**](https://github.com/yoshitomo-matsubara/torchdistill)
+<div align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-3,249_(2021--Present)-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Current_Streak-142_Days-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Longest_Streak-218_Days-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41" />
+</div>
 
-- 🌱 I’m currently learning **Generative AI ,Prompt Engineering, Next.js**
+<br><br>
 
-- 👨‍💻 All of my projects are available at - **GitHub && GitLab**
+---
 
-- 📝 I regularly write articles on [https://coding.blog/](https://coding.blog/)
+<h2 align="center">🚀 Connect & Collaborate</h2>
+<p align="center"><i>Ready to build the next unicorn startup? Let's talk architecture, UI/UX, or AI.</i></p>
 
-- 💬 Ask me about **Kotlin ,Prompting**
+<div align="center">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:[YOUR_EMAIL]@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/[YOUR_LEETCODE]/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/[YOUR_TWITTER]">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41" />
+  </a>
+</div>
 
-- 📫 How to reach me **ix0x0x0@hotmail.com**
+<br>
 
-- 📄 Know about my experiences [work in progress 🚧⌛🔄🛠️]
-
-- ⚡ Fun fact **¯\_(ツ)_/¯**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/miisonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miisonu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsonu" height="30" width="40" /></a>
-<a href="https://fb.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="-" height="30" width="40" /></a>
-<a href="https://instagram.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="-" height="30" width="40" /></a>
-<a href="https://www.behance.net/sonudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sonudev" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SonuPaikrao"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SonuPaikrao" /></a><a href="https://ko-fi.com/SonuPaikrao"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SonuPaikrao" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonupaikrao&show_icons=true&locale=en&layout=compact" alt="sonupaikrao" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonupaikrao&show_icons=true&locale=en" alt="sonupaikrao" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonupaikrao&" alt="sonupaikrao" /></p>
+<div align="center">
+  <sub>Architected with ❤️ by Sonu Rao | Transforming Coffee into Code since 2026</sub>
+</div>
